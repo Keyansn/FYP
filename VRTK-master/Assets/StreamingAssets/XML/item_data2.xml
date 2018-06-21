@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ItemDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nodes>
+    <node>
+      <name> Ted </name>
+      <ID>1</ID>
+      <Data>Data</Data>
+      <loc>
+        <x>-7.99084663</x>
+        <y>1.146327</y>
+        <z>7.47232866</z>
+      </loc>
+    </node>
+    <node>
+      <name> Marshall </name>
+      <ID>1</ID>
+      <Data>Data</Data>
+      <loc>
+        <x>-6.369169</x>
+        <y>-5.17985535</y>
+        <z>8.026443</z>
+      </loc>
+    </node>
+    <node>
+      <name> Lily </name>
+      <ID>1</ID>
+      <Data>Data</Data>
+      <loc>
+        <x>2.22309017</x>
+        <y>-4.69500446</y>
+        <z>9.908118</z>
+      </loc>
+    </node>
+    <node>
+      <name> Barney </name>
+      <ID>1</ID>
+      <Data>Data</Data>
+      <loc>
+        <x>-9.205288</x>
+        <y>1.37276745</y>
+        <z>0.897096634</z>
+      </loc>
+    </node>
+    <node>
+      <name> Robin </name>
+      <ID>1</ID>
+      <Data>Data</Data>
+      <loc>
+        <x>-0.2702179</x>
+        <y>6.6522193</y>
+        <z>-1.6584549</z>
+      </loc>
+    </node>
+  </nodes>
+</ItemDB>
